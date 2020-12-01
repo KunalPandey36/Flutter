@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243587730119",
+    "firebase_url": "https://umbrella-corporation-8ef18.firebaseio.com",
+    "project_id": "umbrella-corporation-8ef18",
+    "storage_bucket": "umbrella-corporation-8ef18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243587730119:android:777921ccd67331cedb8ce2",
+        "android_client_info": {
+          "package_name": "com.example.hacko_vid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243587730119-l7233mmlbe6tvg7gk6sl9dhvuf8n5t8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazryc1CDMJO8C2pWsSsIV3RWvL68D-hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243587730119-l7233mmlbe6tvg7gk6sl9dhvuf8n5t8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
